@@ -1,6 +1,6 @@
 # Hello whatsup! I'm Adam 👋
 
-![alt text](<Frame 2.png>)
+![alt text](<>)
 
 
 <!--
