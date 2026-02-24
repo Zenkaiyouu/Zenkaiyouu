@@ -1,6 +1,6 @@
 # Hello whatsup! I'm Adam 👋
 
-![Zenkaiyouu](img/github-header-banner.png)
+![Zenkaiyouu](<Frame 2.png>)
 
 
 <!--
