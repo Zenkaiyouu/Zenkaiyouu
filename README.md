@@ -1,7 +1,7 @@
-# Hello whatsup! I'm Adam 👋
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/0c673c99-a01f-43f2-897f-1057f92b86b8" /># Hello whatsup! I'm Adam 👋
 
-![alt text](<![Uploading github-header-banner.png…]()
->)
+![Zenkaiyouu](img/github-header-banner.png)
+
 
 
 <!--
