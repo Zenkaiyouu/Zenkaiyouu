@@ -1,6 +1,6 @@
 # Hello whatsup! I'm Adam 👋
 
-![Zenkaiyouu](img\<img width="2125" height="575" alt="image" src="https://github.com/user-attachments/assets/b2aefcac-971d-44a3-9272-2042fda88e12" />
+![Zenkaiyouu](img\width="2125" height="575" alt="image" src="https://github.com/user-attachments/assets/b2aefcac-971d-44a3-9272-2042fda88e12" />
 )
 
 - 🎓 I’m **Data Science** Students
