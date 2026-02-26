@@ -1,4 +1,4 @@
-# Hello whatsup! I'm Adam 👋
+# Hello whatsup! 
 
 <img src="https://github.com/user-attachments/assets/b2aefcac-971d-44a3-9272-2042fda88e12" width="100%" alt="Zenkaiyouu Banner">
 
