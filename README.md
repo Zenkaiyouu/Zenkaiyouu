@@ -1,7 +1,6 @@
 # Hello whatsup! I'm Adam 👋
 
-![Zenkaiyouu](img\width="2125" height="575" alt="image" src="https://github.com/user-attachments/assets/b2aefcac-971d-44a3-9272-2042fda88e12" />
-)
+<img src="https://github.com/user-attachments/assets/b2aefcac-971d-44a3-9272-2042fda88e12" width="100%" alt="Zenkaiyouu Banner">
 
 - 🎓 I’m **Data Science** Students
 - 💻 I’m currently learning Python Machine Learning & Deep Learning
