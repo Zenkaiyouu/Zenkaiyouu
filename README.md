@@ -36,7 +36,3 @@
 ##### Workspace Spec
 <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
 <img src="https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-<<<<<<< HEAD
-
-=======
->>>>>>> ec3b9fa3ef3b114b048429d8bef1a797a6e68d78
